@@ -2,8 +2,6 @@
 
 # Stack data structure
 class Stack
-  attr_reader :items
-
   def initialize
     @items = []
   end
